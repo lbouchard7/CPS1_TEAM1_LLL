@@ -8,7 +8,7 @@ An official, yet sparse, website for the project is maintained [here](https://li
 
 ## About our recommendations
 
-One set of existing ethical guidelines for A/IS systems is [_Ethically Aligned Design_](https://ethicsinaction.ieee.org/), published by IEEE. We use this framework as a basis to form recommendations for actions Living Link Lab researchers can take to ensure their project results in the greatest benefit to all stakeholders.
+One set of existing ethical guidelines for A/IS systems is [_Ethically Aligned Design_](https://ethicsinaction.ieee.org/), published by IEEE. We use this framework as a basis to form [recommendations](https://lbouchard7.github.io/CPS1_TEAM1_LLL/Key_Recommendations) for actions Living Link Lab researchers can take to ensure their project results in the greatest benefit to all stakeholders.
 
 We believe such actions will make the project as a whole more successful. Moreover, we assert that a thorough, well-documented, and effectively implemented consideration of ethics in the Living Link Lab project will put the project at the forefront of ethical design in A/IS systems. 
 
