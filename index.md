@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## The Living Link Lab: What is it and why are ethics a consideration? 
 
-You can use the [editor on GitHub](https://github.com/lbouchard7/cps1assignmentD/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Living Link Lab is a testbed for deploying and testing technology designed to monitor occupants, implement autonomous robots as sensors, and monitor ambient building conditions. This exists within the Link Lab, a pre-existing office space housing over 100 research assistants and faculty.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Beyond the fact that ethics must always be addressed for projects relating to human subjects, systems involving artificial or intelligent systems (A/IS) must be more carefully scrutinized since this emerging field has few established ethical standards, yet a significant potential to disrupt human lives. 
+
+An official, yet sparse, website for the project is maintained [here](https://living.linklab.virginia.edu/). More information about the Link Lab can be found [here](https://engineering.virginia.edu/link-lab-0).
+
+## About our recommendations
+
+
+
+One set of existing recommendations for these systems is [_Ethically Aligned Design_](https://ethicsinaction.ieee.org/), published by IEEE. We use this as a framework for our recommendations to 
+
+
 
 ### Markdown
 
