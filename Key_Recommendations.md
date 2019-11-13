@@ -9,10 +9,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Well-Being
 - Ensure the safety of any actuated systems including automated building controls and autonomous robots
-- _there is another bullet in our doc that I am not sure relates to the EAD
+- _there is another bullet in our doc that I am not sure relates to the EAD_
 
 ### Transparancy and Accountability
+- The rational behind autonomous decisions should be available to all stakeholders
+- Researchers should identify the legally responsible party in the event the project results in harm to individuals or property
 
+### Awareness of Misuse
+- Data should only be used for the intended purpose, even internally
+- Data storage should be designed to gaurd personal data from external entities
+- A review board should be formed to handle and investigate claims of data misuse
+- An enforcement mechanism should be established to deter misuse
 
 ### Markdown
 
