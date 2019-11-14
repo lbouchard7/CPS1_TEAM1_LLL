@@ -8,40 +8,34 @@ An official, yet sparse, website for the project is maintained [here](https://li
 
 ## About our recommendations
 
-One set of existing ethical guidelines for A/IS systems is [_Ethically Aligned Design_](https://ethicsinaction.ieee.org/), published by IEEE. We use this framework as a basis to form [recommendations](https://lbouchard7.github.io/CPS1_TEAM1_LLL/Key_Recommendations) for actions Living Link Lab researchers can take to ensure their project results in the greatest benefit to all stakeholders.
+One set of existing ethical guidelines for A/IS systems is [_Ethically Aligned Design_](https://ethicsinaction.ieee.org/), published by IEEE. We use this framework as a basis to form recommendations for actions Living Link Lab researchers can take to ensure their project results in the greatest benefit to all stakeholders.
 
 We believe such actions will make the project as a whole more successful. Moreover, we assert that a thorough, well-documented, and effectively implemented consideration of ethics in the Living Link Lab project will put the project at the forefront of ethical design in A/IS systems. 
 
 The recommendations, and potentially resulting actions on behalf of the researchers, will serve as an example for similar future A/IS research project. 
 
-### Markdown
+## The Recommendations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Human Rights and Data Agency
 
-```markdown
-Syntax highlighted code block
+    Grant visitors and residents the right to obtain any data collected of them
+    Provide any occupant of the Link Lab the choice to consent to having their data collected or to decline to participate, without retaliation
+    Allow every data subject the right to have their data removed from the system
+    Mitigate any potential bias in the processing of data
 
-# Header 1
-## Header 2
-### Header 3
+### Well-Being
 
-- Bulleted
-- List
+    Ensure the safety of any actuated systems including automated building controls and autonomous robots
+    there is another bullet in our doc that I am not sure relates to the EAD
 
-1. Numbered
-2. List
+### Transparancy and Accountability
 
-**Bold** and _Italic_ and `Code` text
+    The rational behind autonomous decisions should be available to all stakeholders
+    Researchers should identify the legally responsible party in the event the project results in harm to individuals or property
 
-[Link](url) and ![Image](src)
-```
+### Awareness of Misuse
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lbouchard7/cps1assignmentD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    Data should only be used for the intended purpose, even internally
+    Data storage should be designed to gaurd personal data from external entities
+    A review board should be formed to handle and investigate claims of data misuse
+    An enforcement mechanism should be established to deter misuse
