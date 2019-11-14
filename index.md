@@ -18,24 +18,24 @@ The recommendations, and potentially resulting actions on behalf of the research
 
 ### Human Rights and Data Agency
 
-    Grant visitors and residents the right to obtain any data collected of them
-    Provide any occupant of the Link Lab the choice to consent to having their data collected or to decline to participate, without retaliation
-    Allow every data subject the right to have their data removed from the system
-    Mitigate any potential bias in the processing of data
+- Grant visitors and residents the right to obtain any data collected of them
+- Provide any occupant of the Link Lab the choice to consent to having their data collected or to decline to participate, without retaliation
+- Allow every data subject the right to have their data removed from the system
+- Mitigate any potential bias in the processing of data
 
 ### Well-Being
 
-    Ensure the safety of any actuated systems including automated building controls and autonomous robots
-    there is another bullet in our doc that I am not sure relates to the EAD
+- Ensure the safety of any actuated systems including automated building controls and autonomous robots
+- there is another bullet in our doc that I am not sure relates to the EAD
 
 ### Transparancy and Accountability
 
-    The rational behind autonomous decisions should be available to all stakeholders
-    Researchers should identify the legally responsible party in the event the project results in harm to individuals or property
+- The rational behind autonomous decisions should be available to all stakeholders
+- Researchers should identify the legally responsible party in the event the project results in harm to individuals or property
 
 ### Awareness of Misuse
 
-    Data should only be used for the intended purpose, even internally
-    Data storage should be designed to gaurd personal data from external entities
-    A review board should be formed to handle and investigate claims of data misuse
-    An enforcement mechanism should be established to deter misuse
+- Data should only be used for the intended purpose, even internally
+- Data storage should be designed to gaurd personal data from external entities
+- A review board should be formed to handle and investigate claims of data misuse
+- An enforcement mechanism should be established to deter misuse
