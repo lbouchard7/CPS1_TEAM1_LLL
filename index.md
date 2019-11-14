@@ -2,7 +2,7 @@
 
 The Living Link Lab is a testbed for deploying and testing technology designed to monitor occupants, implement autonomous robots as sensors, and monitor ambient building conditions. This exists within the Link Lab, a pre-existing office space housing over 100 research assistants and faculty.
 
-Beyond the fact that ethics must always be addressed for projects relating to human subjects, systems involving artificial or intelligent systems (A/IS) must be more carefully scrutinized since this emerging field has few established ethical standards, yet a significant potential to impact human lives. 
+Beyond the fact that ethics must always be addressed for projects relating to human subjects, systems involving artificial or intelligent systems (A/IS) must be more carefully scrutinized since this emerging field has few established ethical standards and a significant potential to impact human lives. 
 
 An official, yet sparse, website for the project is maintained [here](https://living.linklab.virginia.edu/). More information about the Link Lab can be found [here](https://engineering.virginia.edu/link-lab-0).
 
@@ -12,21 +12,21 @@ One set of existing ethical guidelines for A/IS systems is [_Ethically Aligned D
 
 We believe such actions will make the project as a whole more successful. Moreover, we assert that a thorough, well-documented, and effectively implemented consideration of ethics in the Living Link Lab project will put the project at the forefront of ethical design in A/IS systems. 
 
-The recommendations, and potentially resulting actions on behalf of the researchers, will serve as an example for similar future A/IS research project. 
+The recommendations, and potentially resulting actions on behalf of the researchers, will serve as an example for future A/IS research project. 
 
-## The Recommendations
+## Our recommendations
 
 ### Human Rights and Data Agency
 
+- Provide any occupant of the Link Lab the choice to consent to the collection of thier data or to decline to participate without retaliation
 - Grant visitors and residents the right to obtain any data collected of them
-- Provide any occupant of the Link Lab the choice to consent to having their data collected or to decline to participate, without retaliation
 - Allow every data subject the right to have their data removed from the system
-- Mitigate any potential bias in the processing of data
+- Mitigate any potential bias (racial, cultural, gender, etc.) in the processing of data
 
 ### Well-Being
 
-- Ensure the safety of any actuated systems including automated building controls and autonomous robots
-- there is another bullet in our doc that I am not sure relates to the EAD
+- Rigerously ensure the safety of all systems, particularly actuated systems
+- In the case of the Living Link Lab, this primarily applies to automated building controls and autonomous robots
 
 ### Transparancy and Accountability
 
