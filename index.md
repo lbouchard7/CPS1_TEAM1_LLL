@@ -1,21 +1,18 @@
 ## The Living Link Lab: What is it and why are ethics a consideration? 
 
-The Living Link Lab is a testbed for deploying and testing technology designed to monitor occupants, implement autonomous robots as sensors, and monitor ambient building conditions. This exists within the Link Lab, a pre-existing office space housing over 100 research assistants and faculty.
+The [Living Link Lab](https://living.linklab.virginia.edu/) is a testbed for deploying and testing technology designed to monitor occupants, implement autonomous robots as sensors, and monitor ambient building conditions. This exists within the [Link Lab](https://engineering.virginia.edu/link-lab-0), a pre-existing office space housing over 100 research assistants and faculty.
 
 Beyond the fact that ethics must always be addressed for projects relating to human subjects, projects involving artificial or intelligent systems (A/IS) must be more carefully scrutinized since this emerging field has few established ethical standards and a significant potential to impact human lives. 
 
-An official, yet sparse, website for the project is maintained [here](https://living.linklab.virginia.edu/). More information about the Link Lab can be found [here](https://engineering.virginia.edu/link-lab-0).
-
 ## About our recommendations
 
-One set of existing ethical guidelines for A/IS systems is [_Ethically Aligned Design_](https://ethicsinaction.ieee.org/), published by IEEE. We use this framework as a basis to form [recommendations](https://lbouchard7.github.io/CPS1_TEAM1_LLL/Key_Recommendations) for actions Living Link Lab researchers can take to ensure their project results in the greatest benefit to all stakeholders.
+One set of existing ethical guidelines for A/IS systems is [_Ethically Aligned Design_](https://ethicsinaction.ieee.org/), published by IEEE. We use this framework as a basis to form recommendations for actions Living Link Lab researchers can take to ensure their project results in the greatest benefit to all stakeholders.
 
 We believe such actions will make the project as a whole more successful. Moreover, we assert that a thorough, well-documented, and effectively implemented consideration of ethics in the Living Link Lab project will put the project at the forefront of ethical design in A/IS systems. 
 
-The recommendations, and potentially resulting actions on behalf of the researchers, will serve as an example for similar future A/IS research project. 
+The recommendations, and potentially the resulting actions on behalf of the researchers, will serve as an example for future A/IS research projects. 
 
-### Overview
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Euismod lacinia at quis risus sed vulputate odio ut. Tellus rutrum tellus pellentesque eu tincidunt tortor. Integer feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Pharetra et ultrices neque ornare aenean. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. A diam maecenas sed enim ut. Lectus proin nibh nisl condimentum id venenatis a. Sed libero enim sed faucibus turpis in eu mi. Egestas quis ipsum suspendisse ultrices gravida dictum fusce. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Amet massa vitae tortor condimentum lacinia quis vel. Etiam non quam lacus suspendisse faucibus interdum posuere. Vitae tempus quam pellentesque nec nam.
+## The Recommendations
 
 ### Human Rights and Data Agency
 - Grant visitors and residents the right to obtain any data collected of them
@@ -23,9 +20,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Allow every data subject the right to have their data removed from the system
 - Mitigate any potential bias in the processing of data
 
-### Well-Being
+### Well-Being and Safety
 - Ensure the safety of any actuated systems including automated building controls and autonomous robots
-- _there is another bullet in our doc that I am not sure relates to the EAD_
+- Design all human-robot interactions to exclude the possibility of offending the user
 
 ### Transparancy and Accountability
 - The rational behind autonomous decisions should be available to all stakeholders
